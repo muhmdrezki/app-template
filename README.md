@@ -1,4 +1,4 @@
-# sub-component-third
+# App Template for Micro App Qiankun Vue
 
 ## Project setup
 ```
